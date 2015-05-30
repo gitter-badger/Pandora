@@ -176,3 +176,5 @@ Ask author for help:
   robux@mail.ru
   Michael Galyuk
 
+
+Join the chat at https://gitter.im/EPashkin/Pandora
